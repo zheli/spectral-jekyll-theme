@@ -1,7 +1,7 @@
 # Site settings
-title: Spectral
+title: Softfork Consulting
 email: youremailaddress@gmail.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
+description: Homepage for Softfork AB.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
